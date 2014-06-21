@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LogDisplay</string>
+    <string name="init_do_text">Stop</string>
+    <string name="init_focus_text">Focused</string>
+
+</resources>
